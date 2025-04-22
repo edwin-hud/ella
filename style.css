@@ -35,3 +35,8 @@ body{
     width: 300px;
     height: 400px;
 }
+h1{
+    text-align: left;
+font-size:60px;
+text-decoration: solid; 
+}
