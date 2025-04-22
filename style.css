@@ -37,7 +37,7 @@ body{
 }
 h1{
     text-align: left;
-font-size:60px;
+font-size: 60px;
 text-decoration: solid; 
 }
 p {
@@ -45,6 +45,6 @@ p {
     text-decoration: solid; 
 }
 a {
-    font-size:30px;
+    font-size: 30px;
     color: red; 
 }
